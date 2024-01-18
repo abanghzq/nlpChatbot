@@ -3,4 +3,3 @@ numpy
 torch
 nltk
 scikit-learn
-mysql-connector-python
